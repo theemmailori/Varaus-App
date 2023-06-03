@@ -13,5 +13,5 @@ The backend is done with django framework
 ## Authors
 
 ILori Emmanuel Ayomide <iloriemmanuel82@yahoo.com><br>
-Dorcas Olawuyi <><br>
-Eve Ogwuche<>
+Dorcas Olawuyi
+Eve Ogwuche
