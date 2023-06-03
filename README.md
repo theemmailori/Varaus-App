@@ -14,4 +14,5 @@ The backend is done with django framework
 
 ILori Emmanuel Ayomide <iloriemmanuel82@yahoo.com><br>
 Dorcas Olawuyi
+
 Eve Ogwuche
