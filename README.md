@@ -1,6 +1,6 @@
-# savoria-lemon-app
+# Varaus-App
 
-This is a Restaurant Web Application.
+This is a Web Application for Restaurants.
 
 ### Frontend
 
@@ -12,6 +12,6 @@ The backend is done with django framework
 
 ## Authors
 
-James Chiedozie James <chiedozie013@gmail.com><br>
-Cynthia Anosike <><br>
-Obiukwu Ezeagwu<>
+ILori Emmanuel Ayomide <iloriemmanuel82@yahoo.com><br>
+Dorcas Olawuyi <><br>
+Eve Ogwuche<>
